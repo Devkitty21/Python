@@ -1,0 +1,12 @@
+Una carpeta que se llame Catalogo_peliculas
+Vamos a crear la clase Pelicula que va a estar dentro de la carpeta Dominio que a su vez esta dentro de Catalogo_peliculas
+Vamos a crear la clase CatologoPeliculas que va a estar dentro de la carpeta Servicios que a su vez esta dentro de Catalogo_Peliculas
+
+Despues crearemos finalmente un archivo llamado test_catalogo_peliculas.py el cual nos permitira hacer lo siguiente
+1- Agregar peliculas
+2- Listar peliculas
+3- Eliminar archivo de peliculas
+
+
+import os
+os.remove(path)
