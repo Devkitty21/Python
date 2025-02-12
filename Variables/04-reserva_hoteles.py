@@ -16,7 +16,7 @@ print("Habitacion con vistas al mar?",vistas_mar)
 
 # Realizamos algunas modificaciones
 
-nombre_cliente = "Diogo Vieira"
+nombre_cliente = "Ricardo Lopez"
 dias_estancia = 12
 tarifa_diaria = 1500.0
 vistas_mar = False

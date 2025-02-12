@@ -17,13 +17,13 @@ class Persona:
 # Creacion de los objetos
 
 if __name__ == "__main__":
-    persona1 = Persona('Diogo','Roman') # Crea un objeto vacio en la memoria
+    persona1 = Persona('Pepito','Roman') # Crea un objeto vacio en la memoria
     persona1.mostrar_persona()
     print(f'Direccion de memoria del objeto persona 1: {id(persona1)}')
     print(f'DIreccion de memoria del objeto persona 1 hexadecimal: {hex(id(persona1))}')
 
 # Creamos un segundo objeto
-    persona2 = Persona('Diogo', 'Vieira') # Creamos un objeto vacio en la memoria
+    persona2 = Persona('Sergio', 'Paco') # Creamos un objeto vacio en la memoria
     persona2.mostrar_persona() # En el caso de que lo mandemos antes de inicializar_persona, nos dara un error
     print(f'Direccion de memoria del objeto persona 2: {id(persona2)}')
     print(f'DIreccion de memoria del objeto persona 2 hexadecimal: {hex(id(persona2))}')

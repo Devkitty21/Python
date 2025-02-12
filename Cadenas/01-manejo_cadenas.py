@@ -10,9 +10,9 @@ print(cadena1)
 print(cadena2)
 print(cadena3)
 
-cadena4 = 'Hola me llamo Diogo Vieira'
+cadena4 = 'Hola me llamo Devkitty'
 
-cadena5 = """Estudio en beasain
+cadena5 = """Estudio un poco de python
 y me gusta dedicarme
 a la informatica
 y soy apasionado por

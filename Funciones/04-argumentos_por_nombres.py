@@ -5,11 +5,11 @@ def imprimir_persona(nombre, apellido='', edad =0): # Agregamos valores por defa
 
 # Primero llamamos la funcion pasando los argumentos de manera posicional
 
-imprimir_persona('Diogo','Vieira',15)
+imprimir_persona('Roman','Hernandez',15)
 
 # Llamar la funcion usando argumentos por nombre
 
-imprimir_persona(nombre = 'Diogo', edad = 15, apellido = 'Vieira')
+imprimir_persona(nombre = 'Roman', edad = 15, apellido = 'Hernandez')
 
 # Llamar la funcion usando argumentos por nombre pero intercambiando el orden
 imprimir_persona(edad = 15, apellido = 'Rojas', nombre = 'Carlos')

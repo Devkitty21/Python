@@ -1,5 +1,5 @@
 # Ejercicio de presentacion con Python
 
-print("Nombre: Diogo Vieira")
-print("Edad: 15")
+print("Nombre: Pepito")
+print("Edad: 17")
 print("Pais: Spain")

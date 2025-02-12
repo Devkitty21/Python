@@ -8,5 +8,5 @@ def persona_detalles(**kwargs): # No tiene porque ser el nombre de "kwargs" pero
         print(f'{llave.title()}: {valor}')
 
 # Llamamos a la funcion
-persona_detalles(nombre='Diogo', edad=15, ciudad = 'Spain')
+persona_detalles(nombre='Roman', edad=15, ciudad = 'Spain')
 persona_detalles(nombre="Carlos", edad=28, ciudad= "Guadalajara", puesto= 'Gerente')

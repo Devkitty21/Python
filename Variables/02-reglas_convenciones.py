@@ -10,7 +10,7 @@ nombre_usuario = "Juan Perez"
 klass = "Mi clase"
 
 # Sensible a mayusculas y minusculas
-nombre = "Diogo"
+nombre = "Roman"
 Nombre = "Paulo"
 
 print(nombre)

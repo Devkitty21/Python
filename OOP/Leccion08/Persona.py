@@ -16,7 +16,7 @@ class Personas:
 
 
 persona1 = Personas('Juan',28, [1,2,3,4])
-persona2 = Personas('Diogo',20, [6,7,8,9])
+persona2 = Personas('Roman',20, [6,7,8,9])
 print(persona1 - persona2)
 print(persona1 + persona2)
 
