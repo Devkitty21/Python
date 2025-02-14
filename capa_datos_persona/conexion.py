@@ -6,8 +6,8 @@ class Conexion:
     # Definimos las constantes de la clase de forma privada
     # Estas variables no se deben de modificar a no ser que vayamos a cambiar de base de datos
     _DATABASE = 'test_db'
-    _USERNAME = 'postgres'
-    _PASSWORD = 'admin'
+    _USERNAME = 'test'
+    _PASSWORD = 'whatyousee'
     _DB_PORT = '5432'
     _HOST = '127.0.0.1'
     _conexion = None

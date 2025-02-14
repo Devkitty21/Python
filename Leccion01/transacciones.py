@@ -1,6 +1,6 @@
 import psycopg2 as db
 
-conexion = db.connect(user='postgres', password='admin',host='127.0.0.1',port='5432',database='test_db')
+conexion = db.connect(user='test', password='whatyousee',host='127.0.0.1',port='5432',database='test_db')
 
 try:
     with conexion:
