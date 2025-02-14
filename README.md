@@ -8,7 +8,7 @@ Puedes hacerlo en [python.org](https://www.python.org/) o en [w3schools.com](htt
 
 ---
 
-<h1 align="center">📂 ÍNDICE DEL PROYECTO 📂</h1>
+## 📂 ÍNDICE DEL PROYECTO
 
 1. **[Cadenas](./Cadenas)**  
 
