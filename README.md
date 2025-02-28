@@ -47,6 +47,7 @@ Puedes hacerlo en [python.org](https://www.python.org/) o en [w3schools.com](htt
 18. **[Zona Fit App](./ZonaFitApp)**  
 
 19.**[Profundizando En Python](./ProfundizandoPython)**
+
 ---
 
 <h1 align="center">📜 LICENCIA 📜</h1>
