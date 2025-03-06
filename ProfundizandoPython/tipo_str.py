@@ -128,3 +128,4 @@ mensaje = f'Nombre {nombre}, edad {edad}, Sueldo: {sueldo:.2f}'
 
 # Metodo print
 print(nombre, edad, sueldo, sep=', ')
+

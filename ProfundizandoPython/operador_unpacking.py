@@ -1,12 +1,12 @@
 # * Desempaquetar
-numeros = [1,2,3]
+numeros = [1,2,3,4]
 print(numeros)
 print(*numeros) # Se imprimen cada uno de los elementos de nuestra lista (los estamos desempaquetando)
 print(*numeros, sep=' - ') # Este metodo aplica para cualquier iterable menos a diccionarios
 
 # Desempaquetando al momento de pasar un parametro a una funcion
-def sumar(a,b,c):
-    print(f'Resultado de la suma: {a + b + c}')
+def sumar(a,b,c,d):
+    print(f'Resultado de la suma: {a + b + c + d}')
 
 sumar(*numeros) # Utilizamos el operador unpacking para poder pasar 3 argumentos
 
@@ -41,4 +41,7 @@ print(f'Unir diccionarios: {dic3}')
 lista = [*'HolaMundo'] # Convertimos la cadena en una lista
 print(lista) # Imprimimos la lista
 print(*lista, sep='') # Desempaquetamos la lista y quitamos los espacios quitando el separador por default que es un espacio
+
+
+
 
