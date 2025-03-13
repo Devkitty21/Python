@@ -1,13 +1,5 @@
-import tkinter as tk
+datos = ((1, 'Alejandra', 25), (2, 'Matias', 32))
 
-root = tk.Tk()
-
-# Botón sin borde
-boton1 = tk.Button(root, text="Sin borde", bd=0, bg="lightgray")
-boton1.pack(pady=10)
-
-# Botón con borde de 5 píxeles
-boton2 = tk.Button(root, text="Con borde", bd=5, bg="lightgray")
-boton2.pack(pady=10)
-
-root.mainloop()
+for persona in datos:
+    id, nombre, edad = persona
+    print(f'El id: {id}, nombre: {nombre}, edad: {edad}')
