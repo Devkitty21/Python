@@ -50,6 +50,8 @@ Puedes hacerlo en [python.org](https://www.python.org/) o en [w3schools.com](htt
 
 20. **[Tkinter](./Tkinter)**
 
+21. **[PySide](./Pyside)**
+
 ---
 
 <h1 align="center">📜 LICENCIA 📜</h1>
