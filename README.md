@@ -50,7 +50,7 @@ Puedes hacerlo en [python.org](https://www.python.org/) o en [w3schools.com](htt
 
 20. **[Tkinter](./Tkinter)**
 
-21. **[PySide](./Pyside)**
+21. **[PySide](./PySide)**
 
 ---
 
