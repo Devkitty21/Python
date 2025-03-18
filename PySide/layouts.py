@@ -6,14 +6,11 @@ import sys
 
 class Color(QWidget):
     def __init__(self, nuevo_color):
-        super().__init__()
-        # Indicamos que se puede agregar un color de fondo
-        self.setAutoFillBackground(True)
-        paletaColores = self.palette()
-        # Creamos el componente de color de fondo aplicando el nuevo color
-        paletaColores.setColor(QPalette.Window, QColor(nuevo_color))
-        # Aplicamos el nuevo color al componente
-        self.setPalette(paletaColores)
+        super().__init__() # Inicializamos los atributos y metodos de la clase QWidget
+        self.setAutoFillBackground(True) # True -> Para que a los widgets se les pueda agregar un fondo
+        paletaColores = self.palette() # Obtenemos la paleta de colores actual del widget.
+        paletaColores.setColor(QPalette.Window, QColor(nuevo_color)) # Cambia el color del fondo del widget
+        self.setPalette(paletaColores) # Aplica la nueva paleta modificada al widget
 
 class VentanaPrincipal(QMainWindow):
     def __init__(self):
