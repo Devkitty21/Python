@@ -1,0 +1,2 @@
+prueba desde decorador
+adios
