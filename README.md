@@ -52,7 +52,7 @@ Puedes hacerlo en [python.org](https://www.python.org/) o en [w3schools.com](htt
 
 21. **[PySide](./PySide)**
 
-22. **[Tips and Tricks](./TipsTricks)
+22. **[Tips and Tricks](./TipsTricks)**
 
 ---
 
